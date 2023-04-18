@@ -1,9 +1,3 @@
-function App() {
-  return (
-    <div>
-      <p>Config vitejs eslint prettier</p>
-    </div>
-  );
+export default function App() {
+  return <h1 className="text-xl color font-bold">Hello world!</h1>;
 }
-
-export default App;
